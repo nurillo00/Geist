@@ -19,7 +19,7 @@ function App() {
       <Me />
       <End />
      </div>
-     <hr style={{border: '1px solid rgba(255, 255, 255, 0.1)', marginBottom: '32px'}} />
+     <hr style={{border: '1px solid rgba(255, 255, 255, 0.1)', marginBottom: '52px'}} />
      <Footer />
     </>
   )
